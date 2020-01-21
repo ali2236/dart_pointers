@@ -1,7 +1,7 @@
 name: dart_pointers
-description: C like pointers for dart.
-version: 1.0.0
-homepage: https://www.example.com
+description: a pointer class with C like pointer behavior for dart.
+version: 0.1.0
+homepage: https://github.com/ali2236/dart_pointers
 author: Aligator <aligator2236@gmail.com>
 
 environment:
