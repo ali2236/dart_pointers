@@ -1,7 +1,6 @@
 import 'package:dart_pointers/dart_pointers.dart';
 
 void main() {
-
   var a = Pointer(121);
   var b = Pointer(547);
   a.swap(b);
@@ -20,4 +19,10 @@ void main() {
   print(c);
   print(d);
 
+  realloc(d, 15);
+  d[12] = '12th';
+  print(d);
+
+  free(d);
+  print(d);
 }

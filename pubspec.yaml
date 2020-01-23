@@ -1,6 +1,6 @@
 name: dart_pointers
-description: a pointer class with C like pointer behavior for dart.
-version: 0.1.0
+description: an object wrapper class called Pointer with C like pointer behavior for dart.
+version: 0.1.1
 homepage: https://github.com/ali2236/dart_pointers
 author: Aligator <aligator2236@gmail.com>
 
